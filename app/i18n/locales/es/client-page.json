@@ -1,0 +1,7 @@
+{
+    "title": "Página client-side",
+    "counter_one": "Uno seleccionado",
+    "counter_other": "{{count}} seleccionado",
+    "counter_zero": "Nada seleccionado",
+    "back-to-home": "Volver a inicio"
+}

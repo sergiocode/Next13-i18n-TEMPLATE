@@ -1,0 +1,22 @@
+{
+  "name": "next13-i18n-template",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "accept-language": "^3.0.18",
+    "eslint": "8.38.0",
+    "eslint-config-next": "13.3.0",
+    "i18next": "^22.4.14",
+    "i18next-resources-to-backend": "^1.1.3",
+    "next": "13.3.0",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-i18next": "^12.2.0"
+  }
+}
